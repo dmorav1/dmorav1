@@ -36,7 +36,7 @@ I'm a person passionate by technology with knowledge in hardware and software. C
 
 ### My last 7 days of coding: 
 
-<img src="https://github.com/dmorav1/dmorav1/blob/main/stat.svg" alt="my stats"/>
+<img src="https://github.com/dmorav1/dmorav1/blob/main/images/stat.svg" alt="my stats"/>
 <!--
 **difemove/difemove** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
